@@ -1,16 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QAIoNTgfGwR3HNECtN0I4MQQytq24esxNCdQRtgN8zGPIapJ+RbbYcoCL3GlQcjwZfQitzf/5WdX8NTwdl3w+w==",
+  "dgSpecHash": "Ur7jLNGm4054Tey61J4y2JimYyiKwP7DTYF/B46IYCDbilbeBPXLXZHyZOlOpHPko1+imlLXUYqYBuUtrXyD0A==",
   "success": true,
-  "projectFilePath": "/Users/whitstroup/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [
-    "/Users/whitstroup/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
-    "/Users/whitstroup/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
-    "/Users/whitstroup/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
-    "/Users/whitstroup/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
-    "/Users/whitstroup/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
-    "/Users/whitstroup/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
-    "/Users/whitstroup/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\megam\\repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
