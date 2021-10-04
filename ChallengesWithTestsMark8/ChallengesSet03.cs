@@ -79,9 +79,11 @@ namespace ChallengesWithTestsMark8
 
         public char GetLastLetterOfString(string val)
         {
-            var charArray = val.ToCharArray();
-            int length = charArray.Length;
-            return charArray[length - 1];
+            //var charArray = val.ToCharArray();
+            //int length = charArray.Length;
+            //return charArray[length - 1];
+
+            return val[^1];
         }
 
         public decimal Divide(decimal dividend, decimal divisor)
